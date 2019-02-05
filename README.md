@@ -1,4 +1,4 @@
-# RL-Visual-Input-Game
+# RL-visual-input
 Reinforcement learning algorithms for a visual input task
 
 1 Deep Deterministic Policy Gradients (DDPG)
